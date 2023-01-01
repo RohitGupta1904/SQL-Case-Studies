@@ -1,4 +1,4 @@
-# SQL-Case Studies
+# SQL-Case Studies (Basic+Advance)
 
 ### Case Study 1- Retail Data Analysis
 ### Case Study 2- Mobile Manufacturer Analysis
